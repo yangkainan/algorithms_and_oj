@@ -1,0 +1,101 @@
+[user]
+	name = Yang Kainan
+	email = ykn5163713@163.com
+
+[alias]
+    ci = commit
+    co = checkout
+    cob = checkout -b
+    st = status
+    br = branch
+    ec = config --global -e
+
+
+    amend = commit -a --amend
+    unchange = update-index --assume-unchanged
+    nounchange = update-index --no-assume-unchange
+    lsunchange = !git ls-files -v | grep '^h'
+    ignore = !git unchange
+    unignore = !git nounchange
+    lsignore = !git lsunchange
+    oneline = log --pretty=oneline
+    lg = !"sh -c 'git log --graph --abbrev-commit --decorate --date=relative --format=format:\"%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)\" --branches=$1 ' -"
+    lg1 = log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+    lg2 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all
+    #lg = !"git lg1"
+    whois = "!sh -c 'git log -i -1 --pretty=\"format:%an <%ae>\n\" --author=\"$1\"' -"
+
+    # save all files (tracked and untracked) with a commit. When return to work, should call git undo to unload all saved files back.
+    save = !git add -A && git commit -m 'SAVEPOINT'
+    # should be called after git save;
+    # reset previous commit, keep all the changes fro that commit in the working directory
+    undo = reset HEAD~1 --mixed
+    # almost same as git save, but only commit these tracked files.
+    wip = !git add -u && git commit -m "WIP"
+
+    # it save all changes into a commit which is not tracked. you can find it from reflog
+    wipe = !git add -A && git commit -qm 'WIPE SAVEPOINT' && git reset HEAD~1 --hard
+
+    cm = !git add -A && git commit -m
+    la = !git log --pretty='"format:%ad %h (%an): %s"' --date=short
+    up = !git pull --rebase --prune $@ && git submodule update --init --recursive
+
+    # 1. git fetch; 2 checkout <fork from branch>; 3. Update <fork from branch>; 4. checkout <forked branch>; 5 rebase <fork from branch>
+    # usuage: git rb <fork from branch> <forked branch>
+    rb = !"sh -c 'git fetch &&  git co $1 && git up && git co $2 && git rebase -i origin/$1' -"
+
+    bclean = "!f() { git branch --merged ${1-develop} | grep -v " ${1-develop|master}$" | xargs git branch -d; }; f"
+    bdone = "!f() { git checkout ${1-develop} && git up && git bclean ${1-develop};  }; f"
+
+    # usuage git forkdiff <fork from branch> <forked branche> <git diff options>
+    # e.g. git forkdiff origin/develop origin/feature_evm-1044_evm-1380 ---stat
+    forkdiff = !bash -c 'git diff $(git merge-base "$1" "$2") "$2" "${@: 3}" ' -
+
+    # get current branch name
+    branch-name = "!git rev-parse --abbrev-ref HEAD"
+
+	oldest-ancestor = !zsh -c 'diff --old-line-format= --new-line-format= <(git rev-list --first-parent \"${1:-master}\") <(git rev-list --first-parent \"${2:-HEAD}\") | head -1' -
+	recent-ancestor = !zsh -c 'git log -1 $(git merge-base "$1" "$2") ' -
+
+	is-parent-of= !zsh -c 'diff <(git rev-parse "$1") <(git oldest-ancestor  "$1" "$2" ) ' -
+
+    is-child-of-current-branch= !zsh -c 'git is-parent-of `git branch-name` "$1" ' -
+
+    dag = log --graph --format='format:%C(yellow)%h%C(reset) %C(blue)\"%an\" <%ae>%C(reset) %C(magenta)%cr%C(reset)%C(auto)%d%C(reset)%n%s' --date-order
+
+[core]
+	autocrlf = false
+	excludesfile = /Users/yankaina/.git_excludes
+	pager = less -FMRiX
+	editor = vim
+
+
+[merge]
+	tool = diffmerge
+    ff = no
+
+
+[amazon]
+	append-cr-url = true
+	pull-request-by-default = true
+
+[diff]
+    tool = diffmerge
+[difftool "diffmerge"]
+	cmd = diffmerge \"$LOCAL\" \"$REMOTE\"
+[mergetool "diffmerge"]
+	cmd = "diffmerge --merge --result=\"$MERGED\" \"$LOCAL\" \"$(if test -f \"$BASE\"; then echo \"$BASE\"; else echo \"$LOCAL\"; fi)\" \"$REMOTE\""
+	trustExitCode = true
+[difftool "opendiff"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path =
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
+[color]
+	ui = auto
+[push]
+	default = simple
+[pull]
+	rebase = true

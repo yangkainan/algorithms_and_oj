@@ -139,7 +139,7 @@ class TableInform:
                             folder_url = folder.replace(' ', "%20")
                             folder_url = os.path.join(folder_url, item)
                             folder_url = os.path.join(Config.github_leetcode_url, folder_url)
-                            print(folder_url)
+                            # print(folder_url)
                             self.table_item[folder[:3]].java = '[Java]({})'.format(folder_url)
                         elif item.endswith('.cpp'):
                             complete_info.solved['c++'] += 1

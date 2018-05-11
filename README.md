@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-05-11 09:21:39, I have solved **4** / **746** problems while **133** are still locked.
+Until 2018-05-11 10:05:55, I have solved **5** / **746** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 4
+4. Java: 5
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -17,7 +17,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/Solution.java)|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Characters/Solution.java)|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/004.%20Median%20of%20Two%20Sorted%20Arrays/MedianOf2SortedList.java)|
-|005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|To Do|
+|005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/005.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring.java)|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|To Do|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|To Do|To Do|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|To Do|

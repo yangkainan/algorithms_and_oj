@@ -15,7 +15,7 @@ class Config:
     """
     local_path = '/Users/yankaina/Documents/algorithms_and_oj'
     # solution of leetcode
-    github_leetcode_url = 'https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/'
+    github_leetcode_url = 'https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/'
     # solution of pat,　暂时还没写
     github_pat_url = 'https://github.com/yangkainan/algorithms_and_oj/blob/master/pat-algorithms/'
     leetcode_url = 'https://leetcode.com/problems/'
@@ -139,6 +139,7 @@ class TableInform:
                             folder_url = folder.replace(' ', "%20")
                             folder_url = os.path.join(folder_url, item)
                             folder_url = os.path.join(Config.github_leetcode_url, folder_url)
+                            print(folder_url)
                             self.table_item[folder[:3]].java = '[Java]({})'.format(folder_url)
                         elif item.endswith('.cpp'):
                             complete_info.solved['c++'] += 1

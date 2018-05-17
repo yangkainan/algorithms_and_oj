@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-05-17 08:52:25, I have solved **9** / **750** problems while **133** are still locked.
+Until 2018-05-17 10:15:10, I have solved **10** / **750** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 9
+4. Java: 10
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -22,7 +22,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/007.%20Reverse%20Integer/ReverseInteger.java)|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/008.%20String%20to%20Integer%20(atoi)/String2Integer008.java)|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/009.%20Palindrome%20Number/PalindromeNumber009.java)|
-|010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|To Do|
+|010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/010.%20Regular%20Expression%20Matching/RegularExpressionMatching010.java)|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|To Do|To Do|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|To Do|To Do|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|To Do|To Do|To Do|To Do|

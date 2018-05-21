@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-05-18 15:11:29, I have solved **11** / **750** problems while **133** are still locked.
+Until 2018-05-21 12:37:29, I have solved **12** / **754** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 11
+4. Java: 12
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -24,7 +24,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/009.%20Palindrome%20Number/PalindromeNumber009.java)|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/010.%20Regular%20Expression%20Matching/RegularExpressionMatching010.java)|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/011.%20Container%20With%20Most%20Water/ContainerWithMostWater011.java)|
-|012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|To Do|To Do|
+|012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/012.%20Integer%20to%20Roman/IntegerToRoman012.java)|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|To Do|To Do|To Do|To Do|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|To Do|To Do|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -763,3 +763,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |833|[Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/) |Medium|To Do|To Do|To Do|To Do|
 |834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/) |Hard|To Do|To Do|To Do|To Do|
 |835|[Image Overlap](https://leetcode.com/problems/image-overlap/description/) |Medium|To Do|To Do|To Do|To Do|
+|836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/) |Easy|To Do|To Do|To Do|To Do|
+|837|[New 21 Game](https://leetcode.com/problems/new-21-game/description/) |Medium|To Do|To Do|To Do|To Do|
+|838|[Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) |Medium|To Do|To Do|To Do|To Do|
+|839|[Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/) |Hard|To Do|To Do|To Do|To Do|

@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-05-27 10:53:24, I have solved **20** / **754** problems while **133** are still locked.
+Until 2018-05-27 11:18:37, I have solved **21** / **758** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 20
+4. Java: 21
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -33,7 +33,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/018.%204Sum/18.4sum.java)|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/019.%20Remove%20Nth%20Node%20From%20End%20of%20List/19.remove-nth-node-from-end-of-list.java)|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/20.valid-parentheses.java)|
-|021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|To Do|To Do|
+|021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/21.merge-two-sorted-lists.java)|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|To Do|To Do|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -767,3 +767,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |837|[New 21 Game](https://leetcode.com/problems/new-21-game/description/) |Medium|To Do|To Do|To Do|To Do|
 |838|[Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) |Medium|To Do|To Do|To Do|To Do|
 |839|[Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/) |Hard|To Do|To Do|To Do|To Do|
+|840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) |Easy|To Do|To Do|To Do|To Do|
+|841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) |Medium|To Do|To Do|To Do|To Do|
+|842|[Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/description/) |Medium|To Do|To Do|To Do|To Do|
+|843|[Guess the Word](https://leetcode.com/problems/guess-the-word/description/) |Hard|To Do|To Do|To Do|To Do|

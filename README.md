@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-05-25 16:20:40, I have solved **18** / **754** problems while **133** are still locked.
+Until 2018-05-27 10:32:27, I have solved **19** / **754** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 18
+4. Java: 19
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -31,7 +31,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/016.%203Sum%20Closest/16.3sum-closest.java)|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/017.%20Letter%20Combinations%20of%20a%20Phone%20Number/17.letter-combinations-of-a-phone-number.java)|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/018.%204Sum/18.4sum.java)|
-|019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|To Do|To Do|
+|019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/019.%20Remove%20Nth%20Node%20From%20End%20of%20List/19.remove-nth-node-from-end-of-list.java)|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|To Do|To Do|To Do|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|To Do|To Do|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|

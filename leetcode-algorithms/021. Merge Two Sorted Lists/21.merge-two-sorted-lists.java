@@ -27,7 +27,7 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-class Solution {
+class MergeTwoSortedList021 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode head = null;
         ListNode curr= null;
@@ -68,22 +68,22 @@ class Solution {
         return head;
     }
 
-//    public static void main(String[] args) {
-//        ListNode l1 =new ListNode(1);
-//        l1.next = new ListNode(2);
-//        l1.next.next = new ListNode(4);
-//
-//        ListNode l2 =new ListNode(1);
-//        l2.next = new ListNode(3);
-//        l2.next.next = new ListNode(4);
-//
-//        Solution solution = new Solution();
-//        ListNode mergeTwoLists = solution.mergeTwoLists(l1, l2);
-//
-//        while(mergeTwoLists != null) {
-//            System.out.println(mergeTwoLists.val);
-//            mergeTwoLists =mergeTwoLists.next;
-//        }
-//
-//    }
+    public static void main(String[] args) {
+        ListNode l1 =new ListNode(1);
+        l1.next = new ListNode(2);
+        l1.next.next = new ListNode(4);
+
+        ListNode l2 =new ListNode(1);
+        l2.next = new ListNode(3);
+        l2.next.next = new ListNode(4);
+
+        MergeTwoSortedList021 solution = new MergeTwoSortedList021();
+        ListNode mergeTwoLists = solution.mergeTwoLists(l1, l2);
+
+        while(mergeTwoLists != null) {
+            System.out.println(mergeTwoLists.val);
+            mergeTwoLists =mergeTwoLists.next;
+        }
+
+    }
 }

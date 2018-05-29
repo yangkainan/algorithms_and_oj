@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-05-29 11:03:38, I have solved **23** / **758** problems while **133** are still locked.
+Until 2018-05-29 11:26:38, I have solved **24** / **758** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 23
+4. Java: 24
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -36,7 +36,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/21.merge-two-sorted-lists.java)|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/022.%20Generate%20Parentheses/22.generate-parentheses.java)|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/023.%20Merge%20k%20Sorted%20Lists/23.merge-k-sorted-lists.java)|
-|024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|To Do|
+|024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/024.%20Swap%20Nodes%20in%20Pairs/24.swap-nodes-in-pairs.java)|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|To Do|To Do|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|To Do|To Do|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|To Do|To Do|To Do|To Do|

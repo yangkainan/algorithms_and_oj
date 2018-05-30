@@ -44,7 +44,7 @@ class SwapNodesInPairs024 {
         ListNode nextB = b.next;
 
         while (a != null && b != null) {
-            swapIteration(prevA, a, b, nextB);
+            swapNodeAB(prevA, a, b, nextB);
             if (prevA == null) {
                 head = b;
             }
@@ -67,7 +67,7 @@ class SwapNodesInPairs024 {
         return head;
     }
 
-    private void swapIteration(ListNode prevA, ListNode a, ListNode b, ListNode nextB) {
+    private void swapNodeAB(ListNode prevA, ListNode a, ListNode b, ListNode nextB) {
         if (prevA != null) {
             prevA.next = b;
         }

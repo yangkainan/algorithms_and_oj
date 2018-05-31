@@ -54,7 +54,7 @@
  * 
  * 
  */
-class Solution {
+class RemoveElement027 {
     public int removeElement(int[] nums, int val) {
         if (nums == null || nums.length == 0) {
             return 0;
@@ -87,15 +87,15 @@ class Solution {
     }
 
     public static void main(String[] args) {
-//        int[] nums = new int[]{1};
-//
-//        Solution solution = new Solution();
-//
-//        int numOfUniqElements = solution.removeElement(nums, 1);
-//        System.out.println(String.format("number of uniq elements: %s", numOfUniqElements));
-//
-//        for (int i = 0; i < nums.length; i++) {
-//            System.out.println(nums[i]);
-//        }
+        int[] nums = new int[]{1};
+
+        RemoveElement027 solution = new RemoveElement027();
+
+        int numOfUniqElements = solution.removeElement(nums, 1);
+        System.out.println(String.format("number of uniq elements: %s", numOfUniqElements));
+
+        for (int i = 0; i < nums.length; i++) {
+            System.out.println(nums[i]);
+        }
     }
 }

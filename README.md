@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-06-05 12:45:03, I have solved **31** / **762** problems while **133** are still locked.
+Until 2018-06-06 22:39:58, I have solved **32** / **762** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 31
+4. Java: 32
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -44,7 +44,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/029.%20Divide%20Two%20Integers/29.divide-two-integers.java)|
 |030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/030.%20Substring%20with%20Concatenation%20of%20All%20Words/30.substring-with-concatenation-of-all-words.java)|
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/031.%20Next%20Permutation/31.next-permutation.java)|
-|032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|To Do|To Do|To Do|To Do|
+|032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/032.%20Longest%20Valid%20Parentheses/32.longest-valid-parentheses.java)|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) |Medium|To Do|To Do|To Do|To Do|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|To Do|To Do|To Do|

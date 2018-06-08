@@ -31,7 +31,7 @@
  * 输出: -1
  * 
  */
-class Solution {
+class SearchInRotatedSortedArray033 {
     public static boolean debug = true;
     public int search(int[] nums, int target) {
         if (nums == null || nums.length < 1) {
@@ -96,7 +96,7 @@ class Solution {
 
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        SearchInRotatedSortedArray033 solution = new SearchInRotatedSortedArray033();
 
         test(solution, new int[]{4, 5, 6, 7, 0, 1, 2}, 4);
 
@@ -107,7 +107,7 @@ class Solution {
 
     }
 
-    private static void test(Solution solution, int[] nums, int target) {
+    private static void test(SearchInRotatedSortedArray033 solution, int[] nums, int target) {
         int targetIndex = solution.search(nums, target);
 
         int rotatedPointIndex = solution.findRotatedPointIndex(nums, 0, nums.length - 1);

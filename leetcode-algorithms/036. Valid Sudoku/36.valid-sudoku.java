@@ -71,7 +71,7 @@ import java.util.Set;
  * 
  * 
  */
-class Solution {
+class ValidSudoku036 {
     private static boolean debug = false;
     public boolean isValidSudoku(char[][] board) {
 
@@ -199,7 +199,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        ValidSudoku036 solution = new ValidSudoku036();
         char[][] board = {
                 {'5','3','.','.','7','.','.','.','.'},
                 {'6','.','.','1','9','5','.','.','.'},

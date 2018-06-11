@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-06-09 11:32:32, I have solved **36** / **762** problems while **133** are still locked.
+Until 2018-06-11 15:34:31, I have solved **37** / **766** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 36
+4. Java: 37
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -49,7 +49,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/034.%20Search%20for%20a%20Range/34.search-for-a-range.java)|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position/35.search-insert-position.java)|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/036.%20Valid%20Sudoku/36.valid-sudoku.java)|
-|037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|To Do|To Do|
+|037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/037.%20Sudoku%20Solver/37.sudoku-solver.java)|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|To Do|To Do|To Do|To Do|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -775,3 +775,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/) |Medium|To Do|To Do|To Do|To Do|
 |847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) |Hard|To Do|To Do|To Do|To Do|
+|848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/) |Medium|To Do|To Do|To Do|To Do|
+|849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) |Easy|To Do|To Do|To Do|To Do|
+|850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/description/) |Hard|To Do|To Do|To Do|To Do|
+|851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich/description/) |Medium|To Do|To Do|To Do|To Do|

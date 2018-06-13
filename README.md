@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-06-13 18:40:25, I have solved **38** / **766** problems while **133** are still locked.
+Until 2018-06-13 19:47:37, I have solved **39** / **766** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 38
+4. Java: 39
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -51,7 +51,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/036.%20Valid%20Sudoku/36.valid-sudoku.java)|
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/037.%20Sudoku%20Solver/37.sudoku-solver.java)|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/038.%20Count%20and%20Say/38.count-and-say.java)|
-|039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|To Do|To Do|To Do|To Do|
+|039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/039.%20Combination%20Sum/39.combination-sum.java)|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|To Do|To Do|To Do|To Do|
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|To Do|To Do|To Do|To Do|

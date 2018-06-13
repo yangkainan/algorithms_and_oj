@@ -41,7 +41,7 @@ import java.util.Set;
  *
  *
  */
-class Solution {
+class SudokuSolver037 {
     private static boolean debug = false;
 
     class Cell {
@@ -82,7 +82,7 @@ class Solution {
         }
 
         board[candidateCell.getRowIndex()][candidateCell.getColumnIndex()] = originCellValue;
-        throw new RuntimeException("Cannot find any Solution");
+        throw new RuntimeException("Cannot find any SudokuSolver037");
 
     }
 
@@ -237,7 +237,7 @@ class Solution {
 
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        SudokuSolver037 sudokuSolver037 = new SudokuSolver037();
 
         char[][] board = new char[][]{
                 {'5','3','.','.','7','.','.','.','.'},
@@ -251,7 +251,7 @@ class Solution {
                 {'.','.','.','.','8','.','.','7','9'}
         };
 
-        solution.solveSudoku(board);
+        sudokuSolver037.solveSudoku(board);
 
         for (int i = 0; i < board.length; i++) {
             for (int j = 0; j < board[i].length; j++) {

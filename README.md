@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-06-13 19:47:37, I have solved **39** / **766** problems while **133** are still locked.
+Until 2018-06-23 10:43:52, I have solved **40** / **770** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 39
+4. Java: 40
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -52,7 +52,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/037.%20Sudoku%20Solver/37.sudoku-solver.java)|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/038.%20Count%20and%20Say/38.count-and-say.java)|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/039.%20Combination%20Sum/39.combination-sum.java)|
-|040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/040.%20Combination%20Sum%20II/40.combination-sum-ii.java)|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|To Do|To Do|To Do|To Do|
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|To Do|To Do|To Do|To Do|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -779,3 +779,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) |Easy|To Do|To Do|To Do|To Do|
 |850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich/description/) |Medium|To Do|To Do|To Do|To Do|
+|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |Easy|To Do|To Do|To Do|To Do|
+|853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/) |Medium|To Do|To Do|To Do|To Do|
+|854|[K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) |Hard|To Do|To Do|To Do|To Do|
+|855|[Exam Room](https://leetcode.com/problems/exam-room/description/) |Medium|To Do|To Do|To Do|To Do|

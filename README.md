@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-06-23 10:43:52, I have solved **40** / **770** problems while **133** are still locked.
+Until 2018-06-24 20:15:31, I have solved **41** / **774** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 40
+4. Java: 42
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -53,7 +53,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/038.%20Count%20and%20Say/38.count-and-say.java)|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/039.%20Combination%20Sum/39.combination-sum.java)|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/040.%20Combination%20Sum%20II/40.combination-sum-ii.java)|
-|041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|To Do|To Do|To Do|To Do|
+|041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/041.%20First%20Missing%20Positive/using_bit__41.first-missing-positive.java)|
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|To Do|To Do|To Do|To Do|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|To Do|To Do|To Do|To Do|
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -783,3 +783,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/) |Medium|To Do|To Do|To Do|To Do|
 |854|[K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) |Hard|To Do|To Do|To Do|To Do|
 |855|[Exam Room](https://leetcode.com/problems/exam-room/description/) |Medium|To Do|To Do|To Do|To Do|
+|856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|
+|857|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) |Hard|To Do|To Do|To Do|To Do|
+|858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) |Medium|To Do|To Do|To Do|To Do|
+|859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) |Easy|To Do|To Do|To Do|To Do|

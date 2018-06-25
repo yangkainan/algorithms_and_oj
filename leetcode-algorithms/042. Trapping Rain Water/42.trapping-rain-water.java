@@ -22,7 +22,7 @@
  * 输出: 6
  * 
  */
-class Solution {
+class TrappingRainWater042 {
     boolean debug = false;
     public int trap(int[] height) {
         if (height == null || height.length < 3) {
@@ -111,7 +111,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        TrappingRainWater042 solution = new TrappingRainWater042();
         int trap = solution.trap(new int[]{5, 2, 1, 2, 1, 5});
         System.out.println(trap);
     }

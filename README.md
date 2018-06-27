@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-06-26 10:46:17, I have solved **43** / **774** problems while **133** are still locked.
+Until 2018-06-27 14:30:10, I have solved **44** / **774** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 44
+4. Java: 45
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -56,7 +56,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/041.%20First%20Missing%20Positive/using_bit__41.first-missing-positive.java)|
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/042.%20Trapping%20Rain%20Water/42.trapping-rain-water.java)|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/043.%20Multiply%20Strings/43.multiply-strings.java)|
-|044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |Hard|To Do|To Do|To Do|To Do|
+|044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/044.%20Wildcard%20Matching/44.wildcard-matching.java)|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|To Do|To Do|To Do|To Do|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|To Do|To Do|To Do|

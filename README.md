@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-06-30 11:14:10, I have solved **47** / **774** problems while **133** are still locked.
+Until 2018-07-03 16:38:23, I have solved **48** / **779** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 48
+4. Java: 49
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -60,7 +60,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/045.%20Jump%20Game%20II/45.jump-game-ii.java)|
 |046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/046.%20Permutations/46.permutations.java)|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/047.%20Permutations%20II/47.permutations-ii.java)|
-|048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|To Do|To Do|To Do|
+|048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/048.%20Rotate%20Image/48.rotate-image.java)|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|To Do|To Do|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|To Do|To Do|To Do|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -787,3 +787,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |857|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) |Hard|To Do|To Do|To Do|To Do|
 |858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) |Medium|To Do|To Do|To Do|To Do|
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) |Easy|To Do|To Do|To Do|To Do|
+|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) |Easy|To Do|To Do|To Do|To Do|
+|861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
+|862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/) |Hard|To Do|To Do|To Do|To Do|
+|863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
+|864|[Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/) |Hard|To Do|To Do|To Do|To Do|

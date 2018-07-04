@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-07-03 16:38:23, I have solved **48** / **779** problems while **133** are still locked.
+Until 2018-07-04 12:56:58, I have solved **49** / **779** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 49
+4. Java: 50
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -61,7 +61,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/046.%20Permutations/46.permutations.java)|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/047.%20Permutations%20II/47.permutations-ii.java)|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/048.%20Rotate%20Image/48.rotate-image.java)|
-|049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|To Do|To Do|
+|049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/049.%20Group%20Anagrams/49.group-anagrams.java)|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|To Do|To Do|To Do|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|To Do|To Do|To Do|To Do|
 |052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) |Hard|To Do|To Do|To Do|To Do|

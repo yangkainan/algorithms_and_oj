@@ -1,11 +1,11 @@
 # Keep thinking, keep alive
-Until 2018-07-04 12:56:58, I have solved **49** / **779** problems while **133** are still locked.
+Until 2018-07-10 18:52:55, I have solved **50** / **783** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 50
+4. Java: 51
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -46,7 +46,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/031.%20Next%20Permutation/31.next-permutation.java)|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/032.%20Longest%20Valid%20Parentheses/32.longest-valid-parentheses.java)|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/033.%20Search%20in%20Rotated%20Sorted%20Array/33.search-in-rotated-sorted-array.java)|
-|034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/034.%20Search%20for%20a%20Range/34.search-for-a-range.java)|
+|034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/034.%20Search%20for%20a%20Range/34.search-for-a-range.java)|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position/35.search-insert-position.java)|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/036.%20Valid%20Sudoku/36.valid-sudoku.java)|
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/037.%20Sudoku%20Solver/37.sudoku-solver.java)|
@@ -62,7 +62,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/047.%20Permutations%20II/47.permutations-ii.java)|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/048.%20Rotate%20Image/48.rotate-image.java)|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/049.%20Group%20Anagrams/49.group-anagrams.java)|
-|050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|To Do|To Do|To Do|
+|050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/050.%20Pow(x,%20n)/50.powx-n.java)|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|To Do|To Do|To Do|To Do|
 |052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -792,3 +792,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/) |Hard|To Do|To Do|To Do|To Do|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |864|[Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/) |Hard|To Do|To Do|To Do|To Do|
+|865|[Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/) |Hard|To Do|To Do|To Do|To Do|
+|866|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) |Medium|To Do|To Do|To Do|To Do|
+|867|[Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) |Medium|To Do|To Do|To Do|To Do|
+|868|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) |Easy|To Do|To Do|To Do|To Do|

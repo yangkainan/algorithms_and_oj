@@ -13,7 +13,7 @@ class Config:
     １．　本地仓库的的路径
     ２．　github中的仓库leetcode解法的路径
     """
-    local_path = '/Users/yankaina/Documents/algorithms_and_oj'
+    local_path = '/Users/yangkainan/Documents/github_repos_list/algorithms_and_oj'
     # solution of leetcode
     github_leetcode_url = 'https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/'
     # solution of pat,　暂时还没写
@@ -40,6 +40,7 @@ class Question:
         self.java = ''
         self.javascript = ''
         self.c_plus_plus = ''
+        self.go= ''
 
     def __repr__(self):
         """
@@ -148,6 +149,13 @@ class TableInform:
                             folder_url = os.path.join(Config.github_leetcode_url, folder_url)
                             # print(folder_url)
                             self.table_item[folder[:3]].c_plus_plus = '[C++]({})'.format(folder_url)
+                        elif item.endswith('.go'):
+                            complete_info.solved['go'] += 1
+                            folder_url = folder.replace(' ', "%20")
+                            folder_url = os.path.join(folder_url, item)
+                            folder_url = os.path.join(Config.github_leetcode_url, folder_url)
+                            # print(folder_url)
+                            self.table_item[folder[:3]].go = '[Go]({})'.format(folder_url)
                         elif item.endswith('.js'):
                             complete_info.solved['javascript'] += 1
                             folder_url = folder.replace(' ', "%20")
@@ -176,7 +184,8 @@ class CompleteInform:
             'python': 0,
             'c++': 0,
             'java': 0,
-            'javascript': 0
+            'javascript': 0,
+            'go': 0
         }
         self.complete_num = 0
         self.lock = 0
@@ -211,6 +220,7 @@ class Readme:
                    '\n2. Python: {python}' \
                    '\n3. C++: {c++}' \
                    '\n4. Java: {java}' \
+                   '\n5. Go: {go}' \
                    '\n\nNote: :lock: means you need to buy a book from LeetCode\n'.format(
                     self.time, self.solved, self.total, self.locked, **self.others)
 
@@ -227,7 +237,7 @@ class Readme:
 
         with open(file_path, 'a') as f:
             f.write('## LeetCode Solution Table\n')
-            f.write('| ID | Title | Difficulty | JavaScript | Python | C++ | Java |\n')
+            f.write('| ID | Title | Difficulty | JavaScript | Python | C++ | Java | Go |\n')
             f.write('|:---:' * 7 + '|\n')
             table, table_item = table_instance
             # print(table)
@@ -247,9 +257,10 @@ class Readme:
                     'js': item.javascript if item.javascript else 'To Do',
                     'python': item.python if item.python else 'To Do',
                     'c++': item.c_plus_plus if item.c_plus_plus else 'To Do',
-                    'java': item.java if item.java else 'To Do'
+                    'java': item.java if item.java else 'To Do',
+                    'go': item.go if item.go else 'To Do'
                 }
-                line = '|{id}|{title}|{difficulty}|{js}|{python}|{c++}|{java}|\n'.format(**data)
+                line = '|{id}|{title}|{difficulty}|{js}|{python}|{c++}|{java}|{go}|\n'.format(**data)
                 f.write(line)
             print('README.md was created.....')
 

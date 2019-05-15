@@ -238,7 +238,7 @@ class Readme:
         with open(file_path, 'a') as f:
             f.write('## LeetCode Solution Table\n')
             f.write('| ID | Title | Difficulty | JavaScript | Python | C++ | Java | Go |\n')
-            f.write('|:---:' * 7 + '|\n')
+            f.write('|:---:' * 8 + '|\n')
             table, table_item = table_instance
             # print(table)
             # for i in range(2):

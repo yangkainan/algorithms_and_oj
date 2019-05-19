@@ -1,10 +1,10 @@
-// package main
+package main
 
-// import (
-// 	"fmt"
+import (
+	"fmt"
 
-// 	"github.com/google/go-cmp/cmp"
-// )
+	"github.com/google/go-cmp/cmp"
+)
 
 func generateMatrix(n int) [][]int {
 
@@ -63,33 +63,33 @@ func generateMatrix(n int) [][]int {
 
 }
 
-// func main() {
-// 	tests := map[string]struct {
-// 		input int
-// 		want  [][]int
-// 	}{
-// 		"empty":    {input: 0, want: [][]int{}},
-// 		"negative": {input: -1, want: [][]int{}},
-// 		"3x3": {input: 3, want: [][]int{
-// 			{1, 2, 3},
-// 			{8, 9, 4},
-// 			{7, 6, 5},
-// 		}},
-// 		"4x4": {input: 4, want: [][]int{
-// 			{1, 2, 3, 4},
-// 			{12, 13, 14, 5},
-// 			{11, 16, 15, 6},
-// 			{10, 9, 8, 7},
-// 		}},
-// 	}
+func main() {
+	tests := map[string]struct {
+		input int
+		want  [][]int
+	}{
+		"empty":    {input: 0, want: [][]int{}},
+		"negative": {input: -1, want: [][]int{}},
+		"3x3": {input: 3, want: [][]int{
+			{1, 2, 3},
+			{8, 9, 4},
+			{7, 6, 5},
+		}},
+		"4x4": {input: 4, want: [][]int{
+			{1, 2, 3, 4},
+			{12, 13, 14, 5},
+			{11, 16, 15, 6},
+			{10, 9, 8, 7},
+		}},
+	}
 
-// 	for name, tc := range tests {
-// 		got := generateMatrix(tc.input)
-// 		diff := cmp.Diff(tc.want, got)
-// 		if diff != "" {
-// 			fmt.Printf("Test Name: %v, Input: %v, Want: %v, Got: %v, Diff:%v\n",
-// 				name, tc.input, tc.want, got, diff)
-// 		}
-// 	}
+	for name, tc := range tests {
+		got := generateMatrix(tc.input)
+		diff := cmp.Diff(tc.want, got)
+		if diff != "" {
+			fmt.Printf("Test Name: %v, Input: %v, Want: %v, Got: %v, Diff:%v\n",
+				name, tc.input, tc.want, got, diff)
+		}
+	}
 
-// }
+}

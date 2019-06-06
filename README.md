@@ -1,12 +1,12 @@
 # Keep thinking, keep alive
-Until 2019-06-02 18:55:02, I have solved **61** / **1019** problems while **153** are still locked.
+Until 2019-06-06 17:58:16, I have solved **63** / **1019** problems while **153** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
 4. Java: 53
-5. Go: 9
+5. Go: 10
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -75,7 +75,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/059.%20Spiral%20Matrix%20II/59.spiral-matrix-ii.go)|
 |060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/060.%20Permutation%20Sequence/60.permutation-sequence.go)|
 |061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/061.%20Rotate%20List/61.rotate-list.go)|
-|062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/062.%20Unique%20Paths/62.unique-paths.go)|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |065|[Valid Number](https://leetcode.com/problems/valid-number/description/) |Hard|To Do|To Do|To Do|To Do|To Do|

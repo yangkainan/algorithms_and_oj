@@ -1,12 +1,12 @@
 # Keep thinking, keep alive
-Until 2019-07-25 09:34:40, I have solved **68** / **1059** problems while **165** are still locked.
+Until 2019-07-25 17:56:41, I have solved **69** / **1059** problems while **165** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
 4. Java: 53
-5. Go: 14
+5. Go: 15
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -80,7 +80,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/064.%20Minimum%20Path%20Sum/64.minimum-path-sum.go)|
 |065|[Valid Number](https://leetcode.com/problems/valid-number/description/) |Hard|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/065.%20Valid%20Number/65.valid-number.go)|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/066.%20Plus%20One/66.plus-one.go)|
-|067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
+|067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/067.%20Add%20Binary/67.add-binary.go)|
 |068|[Text Justification](https://leetcode.com/problems/text-justification/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|To Do|To Do|To Do|To Do|To Do|

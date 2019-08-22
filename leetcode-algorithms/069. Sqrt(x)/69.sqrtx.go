@@ -1,4 +1,9 @@
-//package main
+package main
+
+import (
+	"fmt"
+	"github.com/google/go-cmp/cmp"
+)
 
 func mySqrt(x int) int {
 
@@ -33,25 +38,25 @@ func mySqrt(x int) int {
 
 }
 
-//func main() {
-//	tests := map[string]struct {
-//		input int
-//		want  int
-//	}{
-//		"8 -> 2":       {input: 8, want: 2},
-//		"4 -> 2":    {input: 4, want: 2},
-//		"1 -> 1":       {input: 1, want: 1},
-//		"0 -> 0":       {input: 0, want: 0},
-//	}
-//
-//	for name, tc := range tests {
-//		got := mySqrt(tc.input)
-//		diff := cmp.Diff(tc.want, got)
-//		if diff != "" {
-//			fmt.Printf("name: %v, input: %v, want: %v, got: %v, diff: %v",
-//				name, tc.input, tc.want, got, diff)
-//		}
-//
-//	}
-//
-//}
+func main() {
+	tests := map[string]struct {
+		input int
+		want  int
+	}{
+		"8 -> 2":       {input: 8, want: 2},
+		"4 -> 2":    {input: 4, want: 2},
+		"1 -> 1":       {input: 1, want: 1},
+		"0 -> 0":       {input: 0, want: 0},
+	}
+
+	for name, tc := range tests {
+		got := mySqrt(tc.input)
+		diff := cmp.Diff(tc.want, got)
+		if diff != "" {
+			fmt.Printf("name: %v, input: %v, want: %v, got: %v, diff: %v",
+				name, tc.input, tc.want, got, diff)
+		}
+
+	}
+
+}

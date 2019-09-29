@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 
 xrange = 200
-xlist = np.arange(1, xrange, 1, int)
+xlist = np.arange(1, xrange, 1, np.int)
 
 ylist = []
 

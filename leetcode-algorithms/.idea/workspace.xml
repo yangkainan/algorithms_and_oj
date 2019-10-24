@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="817ba89e-095f-4a06-a888-7a1827b61003" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../basic-datastructure-and-algorithm/python/editor_distance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,16 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 72.edit-distance.go">
-    <configuration name="go build 69.sqrtx.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="leetcode-algorithms" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/069. Sqrt(x)/69.sqrtx.go" />
-      <package value="leetcode-algorithms" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build leetcode-algorithms/073. Set Matrix Zeroes">
     <configuration name="go build 70.climbing-stairs.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode-algorithms" />
       <working_directory value="$PROJECT_DIR$" />
@@ -87,13 +77,22 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build leetcode-algorithms/073. Set Matrix Zeroes" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-algorithms" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/073. Set Matrix Zeroes/73.set-matrix-zeroes.go" />
+      <package value="leetcode-algorithms/073. Set Matrix Zeroes" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build leetcode-algorithms/073. Set Matrix Zeroes" />
         <item itemvalue="Go Build.go build 72.edit-distance.go" />
         <item itemvalue="Go Build.go build leetcode-algorithms/072. Edit Distance" />
         <item itemvalue="Go Build.go build 71.simplify-path.go" />
         <item itemvalue="Go Build.go build 70.climbing-stairs.go" />
-        <item itemvalue="Go Build.go build 69.sqrtx.go" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +138,11 @@
           <url>file://$PROJECT_DIR$/072. Edit Distance/72.edit-distance.go</url>
           <line>98</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/073. Set Matrix Zeroes/73.set-matrix-zeroes.go</url>
+          <line>53</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

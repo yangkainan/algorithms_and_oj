@@ -1,12 +1,12 @@
 # Keep thinking, keep alive
-Until 2019-10-08 17:51:50, I have solved **73** / **1129** problems while **190** are still locked.
+Until 2019-10-24 18:24:05, I have solved **74** / **1143** problems while **195** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
 4. Java: 53
-5. Go: 19
+5. Go: 20
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -85,7 +85,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/069.%20Sqrt(x)/69.sqrtx.go)|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/070.%20Climbing%20Stairs/70.climbing-stairs.go)|
 |071|[Simplify Path](https://leetcode.com/problems/simplify-path/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/071.%20Simplify%20Path/71.simplify-path.go)|
-|072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
+|072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |Hard|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/072.%20Edit%20Distance/72.edit-distance.go)|
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
@@ -772,7 +772,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |818|[Race Car](https://leetcode.com/problems/race-car/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
-|707|[Design Linked List](https://leetcode.com/problems/design-linked-list/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
+|707|[Design Linked List](https://leetcode.com/problems/design-linked-list/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |820|[Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |822|[Card Flipping Game](https://leetcode.com/problems/card-flipping-game/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
@@ -1075,6 +1075,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |1080|[Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |1081|[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|1228|[Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/description/) :lock:|Easy|To Do|To Do|To Do|To Do|To Do|
+|1229|[Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
+|1230|[Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |1199|[Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/description/) :lock:|Hard|To Do|To Do|To Do|To Do|To Do|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |1090|[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
@@ -1085,6 +1088,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1094|[Car Pooling](https://leetcode.com/problems/car-pooling/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |1095|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |1096|[Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
+|1231|[Divide Chocolate](https://leetcode.com/problems/divide-chocolate/description/) :lock:|Hard|To Do|To Do|To Do|To Do|To Do|
 |1104|[Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |1105|[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
@@ -1116,6 +1120,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |1172|[Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
+|1236|[Web Crawler](https://leetcode.com/problems/web-crawler/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |1169|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
@@ -1143,3 +1148,12 @@ Note: :lock: means you need to buy a book from LeetCode
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |1220|[Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |1206|[Design Skiplist](https://leetcode.com/problems/design-skiplist/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
+|1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
+|1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|1223|[Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|1224|[Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
+|1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
+|1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
+|1227|[Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/description/) |Medium|To Do|To Do|To Do|To Do|To Do|

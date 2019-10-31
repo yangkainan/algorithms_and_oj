@@ -1,12 +1,12 @@
 # Keep thinking, keep alive
-Until 2019-10-30 08:51:39, I have solved **76** / **1147** problems while **195** are still locked.
+Until 2019-10-31 21:47:16, I have solved **77** / **1147** problems while **195** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
 4. Java: 53
-5. Go: 22
+5. Go: 23
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -88,7 +88,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |Hard|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/072.%20Edit%20Distance/72.edit-distance.go)|
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/073.%20Set%20Matrix%20Zeroes/73.set-matrix-zeroes.go)|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/074.%20Search%20a%202D%20Matrix/74.search-a-2d-matrix.go)|
-|075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/075.%20Sort%20Colors/75.sort-colors.go)|
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |077|[Combinations](https://leetcode.com/problems/combinations/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|To Do|To Do|To Do|To Do|To Do|

@@ -40,16 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 74.search-a-2d-matrix.go">
-    <configuration name="go build 71.simplify-path.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="leetcode-algorithms" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/071. Simplify Path/71.simplify-path.go" />
-      <package value="leetcode-algorithms" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build 75.sort-colors.go">
     <configuration name="go build 72.edit-distance.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode-algorithms" />
       <working_directory value="$PROJECT_DIR$" />
@@ -64,6 +55,15 @@
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/074. Search a 2D Matrix/74.search-a-2d-matrix.go" />
+      <package value="leetcode-algorithms" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 75.sort-colors.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-algorithms" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/075. Sort Colors/75.sort-colors.go" />
       <package value="leetcode-algorithms" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 75.sort-colors.go" />
         <item itemvalue="Go Build.go build 74.search-a-2d-matrix.go" />
         <item itemvalue="Go Build.go build leetcode-algorithms/073. Set Matrix Zeroes" />
         <item itemvalue="Go Build.go build 72.edit-distance.go" />
         <item itemvalue="Go Build.go build leetcode-algorithms/072. Edit Distance" />
-        <item itemvalue="Go Build.go build 71.simplify-path.go" />
       </list>
     </recent_temporary>
   </component>

@@ -1,10 +1,10 @@
-//package main
-//
-//import (
-//	"fmt"
-//	"github.com/google/go-cmp/cmp"
-//	"strings"
-//)
+package main
+
+import (
+	"fmt"
+	"github.com/google/go-cmp/cmp"
+	"strings"
+)
 
 /*
 
@@ -162,38 +162,38 @@ func minus(s, t *map[string]int) {
 	}
 }
 
-//func main() {
-//	tests := map[string]struct {
-//		input struct {
-//			s string
-//			t string
-//		}
-//		want string
-//	}{
-//		"simple": {input: struct {
-//							s string
-//							t string }{s: "ADOBECODEBANC", t: "ABC"},
-//				   want: "BANC"},
-//		"second": {input: struct {
-//			s string
-//			t string }{s: "a", t: "aa"},
-//			want: ""},
-//
-//		"3rd": {input: struct {
-//			s string
-//			t string }{s: "bdab", t: "ab"},
-//			want: "ab"},
-//
-//	}
-//
-//	for name, tc := range tests {
-//		got := minWindow(tc.input.s, tc.input.t)
-//		diff := cmp.Diff(tc.want, got)
-//		if diff != "" {
-//			fmt.Printf("name: %v, input: %v, want: %v, got: %v, diff: %v",
-//				name, tc.input, tc.want, got, diff)
-//		}
-//
-//	}
-//
-//}
+func main() {
+	tests := map[string]struct {
+		input struct {
+			s string
+			t string
+		}
+		want string
+	}{
+		"simple": {input: struct {
+							s string
+							t string }{s: "ADOBECODEBANC", t: "ABC"},
+				   want: "BANC"},
+		"second": {input: struct {
+			s string
+			t string }{s: "a", t: "aa"},
+			want: ""},
+
+		"3rd": {input: struct {
+			s string
+			t string }{s: "bdab", t: "ab"},
+			want: "ab"},
+
+	}
+
+	for name, tc := range tests {
+		got := minWindow(tc.input.s, tc.input.t)
+		diff := cmp.Diff(tc.want, got)
+		if diff != "" {
+			fmt.Printf("name: %v, input: %v, want: %v, got: %v, diff: %v",
+				name, tc.input, tc.want, got, diff)
+		}
+
+	}
+
+}

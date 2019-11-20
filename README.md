@@ -1,12 +1,12 @@
 # Keep thinking, keep alive
-Until 2019-11-19 16:03:30, I have solved **78** / **1167** problems while **203** are still locked.
+Until 2019-11-20 11:47:10, I have solved **79** / **1167** problems while **203** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
 4. Java: 53
-5. Go: 24
+5. Go: 25
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -90,7 +90,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/074.%20Search%20a%202D%20Matrix/74.search-a-2d-matrix.go)|
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/075.%20Sort%20Colors/75.sort-colors.go)|
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |Hard|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/076.%20Minimum%20Window%20Substring/76.minimum-window-substring.go)|
-|077|[Combinations](https://leetcode.com/problems/combinations/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|077|[Combinations](https://leetcode.com/problems/combinations/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/077.%20Combinations/77.combinations.go)|
 |078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |079|[Word Search](https://leetcode.com/problems/word-search/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
@@ -777,7 +777,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |822|[Card Flipping Game](https://leetcode.com/problems/card-flipping-game/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |823|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
-|708|[Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
+|708|[Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |826|[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) |Medium|To Do|To Do|To Do|To Do|To Do|

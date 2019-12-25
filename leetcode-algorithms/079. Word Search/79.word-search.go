@@ -61,6 +61,10 @@ func setVisited(visited *map[string]bool, node *node) {
 	key := fmt.Sprintf("%d_%d", node.row, node.col)
 	(*visited)[key] = true
 }
+func setUnVisited(visited *map[string]bool, node *node) {
+	key := fmt.Sprintf("%d_%d", node.row, node.col)
+	(*visited)[key] = false
+}
 
 func isVisited(visited *map[string]bool, node *node) bool{
 	key := fmt.Sprintf("%d_%d", node.row, node.col)
@@ -73,31 +77,33 @@ func searchRecursively(board [][]byte, word string,  visited *map[string]bool, p
 		return true
 	}
 
-	nextNode, subWord := findNext(board, word, visited, prevNode)
-	for nextNode != nil{
+	nextNodeList, subWord := findNext(board, word, visited, prevNode)
+	for _, nextNode := range nextNodeList {
 		setVisited(visited, nextNode)
 
 		if searchRecursively(board, subWord,  visited, nextNode) {
 			return true
 		}
-		nextNode, subWord = findNext(board, word,  visited, prevNode)
+		setUnVisited(visited, nextNode)
+
 	}
 	return false
 }
 
-func findNext(board [][]byte, word string,  visited *map[string]bool, curNode *node) (nextNode *node, subWord string) {
+func findNext(board [][]byte, word string,  visited *map[string]bool, curNode *node) (allPossibleNextNodes []*node, subWord string) {
 
 
 	row := curNode.row
 	col := curNode.col
 	subWord = word[1:]
+	allPossibleNextNodes = []*node{}
 
 	// left
 
 	if col - 1 >=0 {
 		nextNode := node {row , col - 1}
 		if !isVisited(visited, &nextNode) && board[nextNode.row][nextNode.col]==word[0] {
-			return &nextNode, subWord
+			allPossibleNextNodes = append(allPossibleNextNodes, &nextNode)
 		}
 
 	}
@@ -106,7 +112,7 @@ func findNext(board [][]byte, word string,  visited *map[string]bool, curNode *n
 	if (col + 1) < len(board[row]) {
 		nextNode := node {row , col + 1}
 		if !isVisited(visited, &nextNode) && board[nextNode.row][nextNode.col]==word[0] {
-			return &nextNode, subWord
+			allPossibleNextNodes = append(allPossibleNextNodes, &nextNode)
 		}
 
 	}
@@ -116,7 +122,7 @@ func findNext(board [][]byte, word string,  visited *map[string]bool, curNode *n
 	if row - 1 >= 0 {
 		nextNode := node {row - 1 , col}
 		if !isVisited(visited, &nextNode) && board[nextNode.row][nextNode.col]==word[0] {
-			return &nextNode, subWord
+			allPossibleNextNodes = append(allPossibleNextNodes, &nextNode)
 		}
 	}
 	// down
@@ -124,11 +130,16 @@ func findNext(board [][]byte, word string,  visited *map[string]bool, curNode *n
 	if row + 1 < len(board) {
 		nextNode := node {row + 1 , col}
 		if !isVisited(visited, &nextNode) && board[nextNode.row][nextNode.col]==word[0] {
-			return &nextNode, subWord
+			allPossibleNextNodes = append(allPossibleNextNodes, &nextNode)
 		}
 	}
 
-	return nil, word
+	if len(allPossibleNextNodes) > 0 {
+		return allPossibleNextNodes, subWord
+	} else {
+		return allPossibleNextNodes, word
+	}
+
 }
 
 
@@ -159,7 +170,7 @@ func main() {
 		"ABCESEEEFS":       {input: struct {
 			board [][]byte
 			word  string
-		}{board: [][]byte{{'A','B','C','E'},{'S','F','E','S'},{'A','D','E','E'}}, word: string("ABCESEEEFS")}, want: false},
+		}{board: [][]byte{{'A','B','C','E'},{'S','F','E','S'},{'A','D','E','E'}}, word: string("ABCESEEEFS")}, want: true},
 
 	}
 

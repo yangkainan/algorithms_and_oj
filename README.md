@@ -1,12 +1,12 @@
 # Keep thinking, keep alive
-Until 2019-12-29 16:00:50, I have solved **82** / **1204** problems while **208** are still locked.
+Until 2019-12-30 21:31:52, I have solved **83** / **1204** problems while **208** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
 4. Java: 53
-5. Go: 28
+5. Go: 29
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -94,7 +94,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/078.%20Subsets/78.subsets.go)|
 |079|[Word Search](https://leetcode.com/problems/word-search/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/079.%20Word%20Search/79.word-search.go)|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/80.remove-duplicates-from-sorted-array-ii.go)|
-|081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/081.%20Search%20in%20Rotated%20Sorted%20Array%20II/81.search-in-rotated-sorted-array-ii.go)|
 |082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
@@ -1214,7 +1214,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |1297|[Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |1298|[Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
-|5295|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
-|5296|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
-|5297|[Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
-|5298|[Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
+|1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
+|1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|1307|[Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/) |Hard|To Do|To Do|To Do|To Do|To Do|

@@ -1,12 +1,12 @@
 # Keep thinking, keep alive
-Until 2020-09-21 18:42:15, I have solved **91** / **1446** problems while **229** are still locked.
+Until 2020-09-23 17:30:32, I have solved **92** / **1454** problems while **229** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
 4. Java: 53
-5. Go: 38
+5. Go: 39
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -103,7 +103,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |087|[Scramble String](https://leetcode.com/problems/scramble-string/description/) |Hard|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/087.%20Scramble%20String/0087_scramble-string.go)|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/0088_merge-sorted-array.go)|
 |089|[Gray Code](https://leetcode.com/problems/gray-code/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/089.%20Gray%20Code/0089_gray-code.go)|
-|090|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|090|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/090.%20Subsets%20II/0090_subsets-ii.go)|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
@@ -1447,6 +1447,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1567|[Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |1568|[Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |1569|[Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
+|1588|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
+|1590|[Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|1589|[Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|1591|[Strange Printer II](https://leetcode.com/problems/strange-printer-ii/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |1554|[Strings Differ by One Character](https://leetcode.com/problems/strings-differ-by-one-character/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |1577|[Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
@@ -1458,5 +1462,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |1585|[Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |1570|[Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
+|1592|[Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
+|1593|[Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|1594|[Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|1595|[Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |1580|[Put Boxes Into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |1586|[Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|

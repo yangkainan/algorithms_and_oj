@@ -1,12 +1,12 @@
 # Keep thinking, keep alive
-Until 2020-09-24 17:48:20, I have solved **92** / **1454** problems while **229** are still locked.
+Until 2020-09-28 15:41:41, I have solved **93** / **1455** problems while **230** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
 4. Java: 53
-5. Go: 39
+5. Go: 40
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -104,7 +104,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/0088_merge-sorted-array.go)|
 |089|[Gray Code](https://leetcode.com/problems/gray-code/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/089.%20Gray%20Code/0089_gray-code.go)|
 |090|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/090.%20Subsets%20II/0090_subsets-ii.go)|
-|091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/091.%20Decode%20Ways/0091_decode-ways.go)|
 |092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
@@ -253,7 +253,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |254|[Factor Combinations](https://leetcode.com/problems/factor-combinations/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
-|256|[Paint House](https://leetcode.com/problems/paint-house/description/) :lock:|Easy|To Do|To Do|To Do|To Do|To Do|
+|256|[Paint House](https://leetcode.com/problems/paint-house/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
@@ -519,7 +519,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |536|[Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
-|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
@@ -1468,3 +1468,4 @@ Note: :lock: means you need to buy a book from LeetCode
 |1595|[Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |1580|[Put Boxes Into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |1586|[Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
+|1597|[Build Binary Expression Tree From Infix Expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|

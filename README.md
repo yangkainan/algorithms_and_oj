@@ -1,12 +1,12 @@
 # Keep thinking, keep alive
-Until 2020-09-28 15:41:41, I have solved **93** / **1455** problems while **230** are still locked.
+Until 2020-09-30 17:07:32, I have solved **95** / **1459** problems while **230** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
 4. Java: 53
-5. Go: 40
+5. Go: 42
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -105,8 +105,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |089|[Gray Code](https://leetcode.com/problems/gray-code/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/089.%20Gray%20Code/0089_gray-code.go)|
 |090|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/090.%20Subsets%20II/0090_subsets-ii.go)|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/091.%20Decode%20Ways/0091_decode-ways.go)|
-|092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
-|093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/092.%20Reverse%20Linked%20List%20II/0092_reverse-linked-list-ii.go)|
+|093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/093.%20Restore%20IP%20Addresses/0093_restore-ip-addresses.go)|
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
@@ -579,7 +579,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |630|[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |631|[Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/description/) :lock:|Hard|To Do|To Do|To Do|To Do|To Do|
 |632|[Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
-|633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
+|633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |634|[Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |635|[Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |636|[Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
@@ -1467,5 +1467,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |1594|[Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |1595|[Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |1580|[Put Boxes Into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
+|1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
+|1599|[Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|1600|[Throne Inheritance](https://leetcode.com/problems/throne-inheritance/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|1601|[Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |1586|[Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |1597|[Build Binary Expression Tree From Infix Expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|

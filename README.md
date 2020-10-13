@@ -1,12 +1,12 @@
 # Keep thinking, keep alive
-Until 2020-10-10 15:57:27, I have solved **96** / **1469** problems while **232** are still locked.
+Until 2020-10-13 16:55:47, I have solved **97** / **1473** problems while **232** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
 4. Java: 53
-5. Go: 43
+5. Go: 44
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -108,7 +108,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/092.%20Reverse%20Linked%20List%20II/0092_reverse-linked-list-ii.go)|
 |093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/093.%20Restore%20IP%20Addresses/0093_restore-ip-addresses.go)|
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/094.%20Binary%20Tree%20Inorder%20Traversal/0094_binary-tree-inorder-traversal.go)|
-|095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/095.%20Unique%20Binary%20Search%20Trees%20II/0095_unique-binary-search-trees-ii.go)|
 |096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |097|[Interleaving String](https://leetcode.com/problems/interleaving-string/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
@@ -1481,5 +1481,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |1611|[Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |1610|[Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |1597|[Build Binary Expression Tree From Infix Expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/description/) :lock:|Hard|To Do|To Do|To Do|To Do|To Do|
+|1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
+|1615|[Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|1616|[Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|1617|[Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |1602|[Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |1612|[Check If Two Expression Trees are Equivalent](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|

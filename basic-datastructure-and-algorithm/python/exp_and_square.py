@@ -1,5 +1,6 @@
 import math
 
+
 def exp_and_square(x, y):
     """
     计算  x^y
@@ -24,6 +25,5 @@ def exp_and_square(x, y):
 if __name__ == '__main__':
 
     for x in range(100):
-        for y in range(-100,100):
+        for y in range(-100, 100):
             print(exp_and_square(x, y))
-

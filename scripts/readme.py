@@ -118,8 +118,10 @@ class TableInform:
         for _, folders, _ in os.walk(oj_algorithms):
             # print(folders)
             for folder in folders:
-                # print(folder)
-                # print(os.path.join(oj_algorithms, folder))
+                #print(folder)
+                if folder == 'venv':
+                    continue
+                #print(os.path.join(oj_algorithms, folder))
                 for _, _, files in os.walk(os.path.join(oj_algorithms, folder)):
                     # print(files)
                     if len(files) != 0:
@@ -133,7 +135,7 @@ class TableInform:
                             folder_url = folder.replace(' ', "%20")
                             folder_url = os.path.join(folder_url, item)
                             folder_url = os.path.join(Config.github_leetcode_url, folder_url)
-                            # print(folder_url)
+                            #print(folder_url)
                             self.table_item[folder[:3]].python = '[Python]({})'.format(folder_url)
                         elif item.endswith('.java'):
                             complete_info.solved['java'] += 1

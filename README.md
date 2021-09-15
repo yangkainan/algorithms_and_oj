@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2021-09-14 15:32:57, I have solved **100** / **1808** problems while **280** are still locked.
+Until 2021-09-15 18:36:01, I have solved **101** / **1808** problems while **280** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 2
+2. Python: 3
 3. C++: 0
 4. Java: 53
 5. Go: 44
@@ -111,7 +111,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) |Medium|To Do|To Do|To Do|To Do|[Go](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/095.%20Unique%20Binary%20Search%20Trees%20II/0095_unique-binary-search-trees-ii.go)|
 |096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) |Medium|To Do|[Python](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/096.%20Unique%20Binary%20Search%20Trees/96.unique-binary-search-trees.py)|To Do|To Do|To Do|
 |097|[Interleaving String](https://leetcode.com/problems/interleaving-string/description/) |Medium|To Do|[Python](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/097.%20Interleaving%20String/97.interleaving-string.py)|To Do|To Do|To Do|
-|098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) |Medium|To Do|[Python](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/098.%20Validate%20Binary%20Search%20Tree/98.validate-binary-search-tree.py)|To Do|To Do|To Do|
 |099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |Easy|To Do|To Do|To Do|To Do|To Do|

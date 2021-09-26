@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2021-09-22 20:36:11, I have solved **103** / **1821** problems while **281** are still locked.
+Until 2021-09-26 21:28:50, I have solved **104** / **1822** problems while **282** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 5
+2. Python: 6
 3. C++: 0
 4. Java: 53
 5. Go: 44
@@ -114,7 +114,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) |Medium|To Do|[Python](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/098.%20Validate%20Binary%20Search%20Tree/98.validate-binary-search-tree.py)|To Do|To Do|To Do|
 |099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) |Medium|To Do|[Python](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/099.%20Recover%20Binary%20Search%20Tree/99.recover-binary-search-tree.py)|To Do|To Do|To Do|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) |Easy|To Do|[Python](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/100.%20Same%20Tree/100.same-tree.py)|To Do|To Do|To Do|
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |Easy|To Do|[Python](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/101.%20Symmetric%20Tree/101.symmetric-tree.py)|To Do|To Do|To Do|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
@@ -185,7 +185,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) :lock:|Easy|To Do|To Do|To Do|To Do|To Do|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
-|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
@@ -1834,4 +1834,5 @@ Note: :lock: means you need to buy a book from LeetCode
 |2013|[Detect Squares](https://leetcode.com/problems/detect-squares/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |2014|[Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |1999|[Smallest Greater Multiple Made of Two Digits](https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
+|2015|[Average Height of Buildings in Each Segment](https://leetcode.com/problems/average-height-of-buildings-in-each-segment/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |2005|[Subtree Removal Game with Fibonacci Tree](https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree/description/) :lock:|Hard|To Do|To Do|To Do|To Do|To Do|

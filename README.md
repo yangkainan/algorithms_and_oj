@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2021-09-27 17:09:17, I have solved **105** / **1822** problems while **282** are still locked.
+Until 2021-09-29 16:28:26, I have solved **106** / **1822** problems while **282** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 7
+2. Python: 8
 3. C++: 0
 4. Java: 53
 5. Go: 44
@@ -116,7 +116,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) |Easy|To Do|[Python](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/100.%20Same%20Tree/100.same-tree.py)|To Do|To Do|To Do|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |Easy|To Do|[Python](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/101.%20Symmetric%20Tree/101.symmetric-tree.py)|To Do|To Do|To Do|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|To Do|[Python](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/102.%20Binary%20Tree%20Level%20Order%20Traversal/102.binary-tree-level-order-traversal.py)|To Do|To Do|To Do|
-|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |Medium|To Do|[Python](https://github.com/yangkainan/algorithms_and_oj/blob/master/leetcode-algorithms/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/103.binary-tree-zigzag-level-order-traversal.py)|To Do|To Do|To Do|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
